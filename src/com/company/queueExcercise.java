@@ -15,6 +15,7 @@ public class queueExcercise {
         queue1.add(1);
         queue1.peek();
         System.out.println(queue1);
+        System.out.println("Hello");
 
     }
 }
