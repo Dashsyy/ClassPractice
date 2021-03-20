@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a41f3f67-c9eb-4022-905d-e3d532fe0835" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Trie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/note.txt" afterDir="false" />
     </list>
@@ -31,6 +34,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gaming Gears\IdeaProjects\ClassPractice\src\com\company" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com" />
     </key>
@@ -47,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.queueExcercise">
+  <component name="RunManager" selected="Application.Tree">
     <configuration name="Arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Arraylist" />
       <module name="ClassPractice" />
@@ -61,8 +67,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Dictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Dictionary" />
+      <module name="ClassPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Stack_Excercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Stack_Excercise" />
+      <module name="ClassPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Tree" />
       <module name="ClassPractice" />
       <extension name="coverage">
         <pattern>
@@ -93,6 +125,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tree" />
+        <item itemvalue="Application.Dictionary" />
         <item itemvalue="Application.queueExcercise" />
         <item itemvalue="Application.Arraylist" />
         <item itemvalue="Application.Stack_Excercise" />
@@ -103,7 +137,26 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Singly and Doubly linked list">
+      <created>1616245876652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616245876652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Singly and Doubly linked list">
+      <created>1616245967379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616245967379</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Singly and Doubly linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Singly and Doubly linked list" />
   </component>
   <component name="WindowStateProjectService">
     <state x="524" y="129" width="1071" height="850" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
