@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeb2444d-b99c-4c44-97cb-65878a841890" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StackGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Stack_Excercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/note.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1pyXNSCt2gEhaiP7JfoYo4giCqu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -103,6 +99,14 @@
       <option name="presentableId" value="Default" />
       <updated>1616156263405</updated>
     </task>
+    <task id="LOCAL-00001" summary="mission queueExcercise">
+      <created>1616169708697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616169708697</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,10 +114,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mission queueExcercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="mission queueExcercise" />
   </component>
 </project>
