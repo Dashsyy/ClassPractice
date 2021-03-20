@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a41f3f67-c9eb-4022-905d-e3d532fe0835" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ClassPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Arraylist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassPractice/META-INF/ClassPractice.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassPractice/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassPractice/com/company/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/queueExcercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/queueExcercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/note.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +25,27 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Application.queueExcercise">
     <configuration name="Arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -92,60 +99,36 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="129" width="1071" height="850" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616230126955">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state x="524" y="129" width="1071" height="850" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.954@0.25.1680.954" timestamp="1616230126955" />
-    <state x="498" y="333" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1616230060338">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state x="498" y="333" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1680.954@0.25.1680.954" timestamp="1616230060338" />
-    <state width="1056" height="208" key="GridCell.Tab.0.bottom" timestamp="1616235421865">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state width="1056" height="208" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1616235421865" />
-    <state width="1056" height="208" key="GridCell.Tab.0.center" timestamp="1616235421864">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state width="1056" height="208" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1616235421864" />
-    <state width="1056" height="208" key="GridCell.Tab.0.left" timestamp="1616235421864">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state width="1056" height="208" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1616235421864" />
-    <state width="1056" height="208" key="GridCell.Tab.0.right" timestamp="1616235421864">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state width="1056" height="208" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1616235421864" />
-    <state width="1258" height="80" key="GridCell.Tab.1.bottom" timestamp="1616230167236">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state width="1258" height="80" key="GridCell.Tab.1.bottom/0.25.1680.954@0.25.1680.954" timestamp="1616230167236" />
-    <state width="1258" height="80" key="GridCell.Tab.1.center" timestamp="1616230167235">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state width="1258" height="80" key="GridCell.Tab.1.center/0.25.1680.954@0.25.1680.954" timestamp="1616230167235" />
-    <state width="1258" height="80" key="GridCell.Tab.1.left" timestamp="1616230167234">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state width="1258" height="80" key="GridCell.Tab.1.left/0.25.1680.954@0.25.1680.954" timestamp="1616230167234" />
-    <state width="1258" height="80" key="GridCell.Tab.1.right" timestamp="1616230167235">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state width="1258" height="80" key="GridCell.Tab.1.right/0.25.1680.954@0.25.1680.954" timestamp="1616230167235" />
-    <state x="361" y="276" key="Vcs.Push.Dialog.v2" timestamp="1616229777002">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state x="361" y="276" key="Vcs.Push.Dialog.v2/0.25.1680.954@0.25.1680.954" timestamp="1616229777002" />
-    <state x="562" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616230384189">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state x="562" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.954@0.25.1680.954" timestamp="1616230384189" />
+    <state x="524" y="129" width="1071" height="850" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
+    <state x="524" y="129" width="1071" height="850" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.954@0.25.1680.954" />
+    <state x="498" y="333" key="#com.intellij.ide.util.TreeClassChooserDialog" />
+    <state x="498" y="333" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1680.954@0.25.1680.954" />
+    <state width="1056" height="208" key="GridCell.Tab.0.bottom" />
+    <state width="1056" height="208" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" />
+    <state width="1056" height="208" key="GridCell.Tab.0.center" />
+    <state width="1056" height="208" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" />
+    <state width="1056" height="208" key="GridCell.Tab.0.left" />
+    <state width="1056" height="208" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" />
+    <state width="1056" height="208" key="GridCell.Tab.0.right" />
+    <state width="1056" height="208" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" />
+    <state width="1258" height="80" key="GridCell.Tab.1.bottom" />
+    <state width="1258" height="80" key="GridCell.Tab.1.bottom/0.25.1680.954@0.25.1680.954" />
+    <state width="1258" height="80" key="GridCell.Tab.1.center" />
+    <state width="1258" height="80" key="GridCell.Tab.1.center/0.25.1680.954@0.25.1680.954" />
+    <state width="1258" height="80" key="GridCell.Tab.1.left" />
+    <state width="1258" height="80" key="GridCell.Tab.1.left/0.25.1680.954@0.25.1680.954" />
+    <state width="1258" height="80" key="GridCell.Tab.1.right" />
+    <state width="1258" height="80" key="GridCell.Tab.1.right/0.25.1680.954@0.25.1680.954" />
+    <state x="361" y="276" key="Vcs.Push.Dialog.v2" />
+    <state x="361" y="276" key="Vcs.Push.Dialog.v2/0.25.1680.954@0.25.1680.954" />
+    <state x="562" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" />
+    <state x="562" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.954@0.25.1680.954" />
   </component>
 </project>

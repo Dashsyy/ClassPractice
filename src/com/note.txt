@@ -4,7 +4,7 @@
 4. Queue-done
 5. Linklist
 6. Double-Linkedlist
-7. Dictionaries
+7. Dictionaries-HashMap
 8. Trees
 9. Tries
 10. Heaps
