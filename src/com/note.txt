@@ -1,7 +1,7 @@
 1. Array-done
-2. Arraylist
+2. Arraylist-done
 3. Stack-done
-4. Queue
+4. Queue-done
 5. Linklist
 6. Double-Linkedlist
 7. Dictionaries
