@@ -1,11 +1,11 @@
 1. Array-done
 2. Arraylist-done
 3. Stack-done
-4. Queue
-5. Linklist
-6. Double-Linkedlist
-7. Dictionaries
-8. Trees
-9. Tries
+4. Queue-done
+5. Linklist-done
+6. Double-Linkedlist-done
+7. Dictionaries-HashMap-done
+8. Trees-done
+9. Tries-done
 10. Heaps
 11. Graphs

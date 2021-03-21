@@ -5,7 +5,7 @@
 5. Linklist-done
 6. Double-Linkedlist-done
 7. Dictionaries-HashMap-done
-8. Trees
-9. Tries
+8. Trees-done
+9. Tries-done
 10. Heaps
 11. Graphs

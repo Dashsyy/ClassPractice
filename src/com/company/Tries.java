@@ -3,12 +3,12 @@ package com.company;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Trie {
+public class Tries {
     private boolean isLeaf;
-    private Map<Character, Trie> children;
+    private Map<Character, Tries> children;
 
     // Constructor
-    Trie()
+    Tries()
     {
         isLeaf = false;
         children = new HashMap<>();
@@ -20,13 +20,13 @@ public class Trie {
         System.out.println("Inserting \"" + key + "\"");
 
         // start from the root node
-        Trie curr = this;
+        Tries curr = this;
 
         // do for each character of the key
         for (char c: key.toCharArray())
         {
             // create a new node if the path doesn't exist
-            curr.children.putIfAbsent(c, new Trie());
+            curr.children.putIfAbsent(c, new Tries());
 
             // go to the next node
             curr = curr.children.get(c);
@@ -42,7 +42,7 @@ public class Trie {
     {
         System.out.print("Searching \"" + key + "\" : ");
 
-        Trie curr = this;
+        Tries curr = this;
 
         // do for each character of the key
         for (char c: key.toCharArray())
@@ -59,5 +59,29 @@ public class Trie {
         // return true if the current node is a leaf node and the
         // end of the string is reached
         return curr.isLeaf;
+    }
+
+    public static void main(String[] args) {
+        // construct a new Trie node
+        Tries head = new Tries();
+
+        head.insert("Ce");
+        head.insert("Con");
+        head.insert("Do");
+        head.insert("Don");
+        head.insert("Sa");
+        head.insert("Si");
+
+        System.out.println(head.search("Ce"));			// true
+        System.out.println(head.search("Do"));   		// true
+        System.out.println(head.search("Don"));  		// true
+        System.out.println(head.search("Sa"));   // false
+
+        head.insert("CeConDoDonSaSi");
+
+        System.out.println(head.search("Ce"));			// true
+        System.out.println(head.search("Con"));   		// true
+        System.out.println(head.search("Don"));  		// true
+        System.out.println(head.search("Do"));   // true
     }
 }

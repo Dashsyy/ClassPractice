@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a41f3f67-c9eb-4022-905d-e3d532fe0835" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ClassPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Heap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassPractice/META-INF/ClassPractice.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassPractice/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassPractice/com/company/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/queueExcercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/queueExcercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassPractice/com/company/queueExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassPractice/com/company/queueExcercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassPractice/com/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassPractice/com/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/note.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +48,13 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1q3VChIPgkCJgN9fR3nndXEOFQx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RecentsManager">
@@ -40,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src/com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.queueExcercise">
+  <component name="RunManager" selected="Application.Heap$MaxHeap">
     <configuration name="Arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Arraylist" />
       <module name="ClassPractice" />
@@ -54,8 +76,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Heap$MaxHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Heap$MaxHeap" />
+      <module name="ClassPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Stack_Excercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Stack_Excercise" />
+      <module name="ClassPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Tries" />
       <module name="ClassPractice" />
       <extension name="coverage">
         <pattern>
@@ -86,16 +134,28 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Heap$MaxHeap" />
+        <item itemvalue="Application.Tries" />
         <item itemvalue="Application.queueExcercise" />
         <item itemvalue="Application.Arraylist" />
         <item itemvalue="Application.Stack_Excercise" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -107,22 +167,22 @@
       <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state x="498" y="333" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1680.954@0.25.1680.954" timestamp="1616230060338" />
-    <state width="1056" height="208" key="GridCell.Tab.0.bottom" timestamp="1616235421865">
+    <state width="1056" height="337" key="GridCell.Tab.0.bottom" timestamp="1616308746317">
       <screen x="0" y="25" width="1680" height="954" />
     </state>
-    <state width="1056" height="208" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1616235421865" />
-    <state width="1056" height="208" key="GridCell.Tab.0.center" timestamp="1616235421864">
+    <state width="1056" height="337" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1616308746317" />
+    <state width="1056" height="337" key="GridCell.Tab.0.center" timestamp="1616308746316">
       <screen x="0" y="25" width="1680" height="954" />
     </state>
-    <state width="1056" height="208" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1616235421864" />
-    <state width="1056" height="208" key="GridCell.Tab.0.left" timestamp="1616235421864">
+    <state width="1056" height="337" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1616308746316" />
+    <state width="1056" height="337" key="GridCell.Tab.0.left" timestamp="1616308746315">
       <screen x="0" y="25" width="1680" height="954" />
     </state>
-    <state width="1056" height="208" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1616235421864" />
-    <state width="1056" height="208" key="GridCell.Tab.0.right" timestamp="1616235421864">
+    <state width="1056" height="337" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1616308746315" />
+    <state width="1056" height="337" key="GridCell.Tab.0.right" timestamp="1616308746316">
       <screen x="0" y="25" width="1680" height="954" />
     </state>
-    <state width="1056" height="208" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1616235421864" />
+    <state width="1056" height="337" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1616308746316" />
     <state width="1258" height="80" key="GridCell.Tab.1.bottom" timestamp="1616230167236">
       <screen x="0" y="25" width="1680" height="954" />
     </state>
