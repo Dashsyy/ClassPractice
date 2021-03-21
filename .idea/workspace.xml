@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a41f3f67-c9eb-4022-905d-e3d532fe0835" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Heap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassPractice/com/company/queueExcercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassPractice/com/company/queueExcercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassPractice/com/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassPractice/com/note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/note.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a41f3f67-c9eb-4022-905d-e3d532fe0835" name="Default Changelist" comment="Heap and Tries" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,6 +136,14 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Heap and Tries">
+      <created>1616309261921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616309261921</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +158,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Heap and Tries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Heap and Tries" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="524" y="129" width="1071" height="850" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616230126955">
       <screen x="0" y="25" width="1680" height="954" />
@@ -167,22 +171,22 @@
       <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state x="498" y="333" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1680.954@0.25.1680.954" timestamp="1616230060338" />
-    <state width="1056" height="337" key="GridCell.Tab.0.bottom" timestamp="1616308746317">
+    <state width="1056" height="285" key="GridCell.Tab.0.bottom" timestamp="1616309176905">
       <screen x="0" y="25" width="1680" height="954" />
     </state>
-    <state width="1056" height="337" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1616308746317" />
-    <state width="1056" height="337" key="GridCell.Tab.0.center" timestamp="1616308746316">
+    <state width="1056" height="285" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1616309176905" />
+    <state width="1056" height="285" key="GridCell.Tab.0.center" timestamp="1616309176903">
       <screen x="0" y="25" width="1680" height="954" />
     </state>
-    <state width="1056" height="337" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1616308746316" />
-    <state width="1056" height="337" key="GridCell.Tab.0.left" timestamp="1616308746315">
+    <state width="1056" height="285" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1616309176903" />
+    <state width="1056" height="285" key="GridCell.Tab.0.left" timestamp="1616309176902">
       <screen x="0" y="25" width="1680" height="954" />
     </state>
-    <state width="1056" height="337" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1616308746315" />
-    <state width="1056" height="337" key="GridCell.Tab.0.right" timestamp="1616308746316">
+    <state width="1056" height="285" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1616309176902" />
+    <state width="1056" height="285" key="GridCell.Tab.0.right" timestamp="1616309176903">
       <screen x="0" y="25" width="1680" height="954" />
     </state>
-    <state width="1056" height="337" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1616308746316" />
+    <state width="1056" height="285" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1616309176903" />
     <state width="1258" height="80" key="GridCell.Tab.1.bottom" timestamp="1616230167236">
       <screen x="0" y="25" width="1680" height="954" />
     </state>
@@ -199,10 +203,10 @@
       <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state width="1258" height="80" key="GridCell.Tab.1.right/0.25.1680.954@0.25.1680.954" timestamp="1616230167235" />
-    <state x="361" y="276" key="Vcs.Push.Dialog.v2" timestamp="1616229777002">
+    <state x="361" y="276" key="Vcs.Push.Dialog.v2" timestamp="1616309266181">
       <screen x="0" y="25" width="1680" height="954" />
     </state>
-    <state x="361" y="276" key="Vcs.Push.Dialog.v2/0.25.1680.954@0.25.1680.954" timestamp="1616229777002" />
+    <state x="361" y="276" key="Vcs.Push.Dialog.v2/0.25.1680.954@0.25.1680.954" timestamp="1616309266181" />
     <state x="562" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616230384189">
       <screen x="0" y="25" width="1680" height="954" />
     </state>
